@@ -7,7 +7,7 @@ This project showcases a full end-to-end **E-Commerce Data Engineering Pipeline*
 ## YouTube Demo
 
 Watch a complete walkthrough of the project and dashboard here:  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+🔗 [Watch on YouTube](https://www.youtube.com/watch?v=rh47vtvR8wE)
 
 ---
 
