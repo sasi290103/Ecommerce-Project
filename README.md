@@ -97,7 +97,7 @@ To download the dataset:
    ```bash
    kaggle datasets download -d olistbr/brazilian-ecommerce
 
-   ## ⚙️ How to Run This Project
+## ⚙️ How to Run This Project
 
 1. **Clone this repo**:
    ```bash
