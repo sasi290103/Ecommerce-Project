@@ -97,3 +97,24 @@ To download the dataset:
    ```bash
    kaggle datasets download -d olistbr/brazilian-ecommerce
 
+   ## ⚙️ How to Run This Project
+
+1. **Clone this repo**:
+   ```bash
+   git clone https://github.com/yourusername/ecommerce-data-pipeline.git
+   cd ecommerce-data-pipeline
+   ```
+
+2. **Upload Notebooks to Databricks**
+
+3. **Follow this execution order**:
+   - `reader_factory.ipynb`
+   - `Stream Data Partitioning.ipynb`
+   - `Bronze.ipynb`
+   - `Silver.ipynb`
+   - `Gold.ipynb`
+   - `Dashboard Notebook.ipynb`
+
+4. **Place dataset** in your cloud storage (DBFS, S3, ADLS) accessible from Databricks.
+
+5. **Create dashboards** from the Gold table outputs.
